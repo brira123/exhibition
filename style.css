@@ -46,6 +46,19 @@ header {
 }
 .card {
     display: inline-block;
+    margin: 30px;
+    text-align: center;
+}
+.card4 {
+    margin-left: 180px; 
+    display: inline-block;
+    text-align: center;
+}
+.card5 {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 16px; 
+    text-align: center;
 }
 .main {
     margin-left: 600px;
@@ -60,7 +73,4 @@ footer {
     padding: 20px;
     text-align: center;
 }
-.partners {
-    position: relative;
-    left: 140px;
-}
+
