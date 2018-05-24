@@ -45,6 +45,9 @@ header {
     position: relative;
     
 }
+.card {
+    display: inline-block;
+}
 .main {
     margin-left: 600px;
 }
